@@ -2,6 +2,6 @@ import React from 'react'
 
 export function Loader(){
     return (
-        <div></div>
+        <div><p className='text-center'>Loading...</p></div>
     )
 }
